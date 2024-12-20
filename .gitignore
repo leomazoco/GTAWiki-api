@@ -1,0 +1,13 @@
+*.ini
+*.pyc
+*.log
+*.pdf
+*.xml
+*.png
+*.xlsx
+__pycache__
+.idea
+venv
+.venv
+env
+/.idea
